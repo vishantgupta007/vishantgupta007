@@ -1,2 +1,2 @@
-<h1 style={{color: "maroon"}}>Well this is customized github profile</div>
+<h1 style={{color: "maroon", align = "center"}}>Well this is customized github profile</div>
 
