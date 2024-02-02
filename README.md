@@ -4,7 +4,7 @@
   <img src="https://your-profile-image-url" style="border-radius: 50%; margin-top: 100px; width: 150px; height: 150px;">
   <!-- Add your profile details, social links, or any other content here -->
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishantgupta007" alt="vishantgupta007" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/arreyguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/arreyguptaji?logo=twitter&style=for-the-badge" alt="arreyguptaji" /></a> </p>
 
 - 🌱 I’m currently learning **Jest**
