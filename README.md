@@ -1,6 +1,7 @@
 <h1 align="center">Well Hello, I'm Vishant Gupta</h1>
 <h3 align="center">A Digital Craftsman (Frontend Developer)</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishantgupta007" alt="vishantgupta007" /></a> </p>
 <p align="left"> <a href="https://twitter.com/arreyguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/arreyguptaji?logo=twitter&style=for-the-badge" alt="arreyguptaji" /></a> </p>
 
 - 🌱 I’m currently learning **Jest**
