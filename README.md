@@ -1,6 +1,9 @@
 <h1 align="center">Well Hello, I'm Vishant Gupta</h1>
 <h3 align="center">A Digital Craftsman (Frontend Developer)</h3>
-
+<div style="background-image: url('(https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1706884795~exp=1706885395~hmac=6415cd87733cb42a672d83fa60d2b76e08f8dc7ae4590e5eaffe869785a3f6d4)'); background-size: cover; height: 300px; position: relative; text-align: center;">
+  <img src="https://your-profile-image-url" style="border-radius: 50%; margin-top: 100px; width: 150px; height: 150px;">
+  <!-- Add your profile details, social links, or any other content here -->
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishantgupta007" alt="vishantgupta007" /></a> </p>
 <p align="left"> <a href="https://twitter.com/arreyguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/arreyguptaji?logo=twitter&style=for-the-badge" alt="arreyguptaji" /></a> </p>
 
