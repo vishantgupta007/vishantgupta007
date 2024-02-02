@@ -1,14 +1,7 @@
 <h1 align="center">Well Hello, I'm Vishant Gupta</h1>
-<path xmlns="http://www.w3.org/2000/svg" d="" fill="url(#linear)" opacity="0.4">
-        <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 35Q 213.5 80 427 50T 854 60L 854 0 Z;M0 0L 0 50Q 213.5 20 427 20T 854 40L 854 0 Z;M0 0L 0 45Q 213.5 25 427 50T 854 65L 854 0 Z;M0 0L 0 35Q 213.5 80 427 50T 854 60L 854 0 Z">
-        </animate>
-      </path>
 <h3 align="center">A Digital Craftsman (Frontend Developer)</h3>
-<div style="background-image: url('[(https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1706884795~exp=1706885395~hmac=6415cd87733cb42a672d83fa60d2b76e08f8dc7ae4590e5eaffe869785a3f6d4)](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1706884795~exp=1706885395~hmac=6415cd87733cb42a672d83fa60d2b76e08f8dc7ae4590e5eaffe869785a3f6d4)'); background-size: cover; height: 300px; position: relative; text-align: center;">
-  <img src="https://your-profile-image-url" style="border-radius: 50%; margin-top: 100px; width: 150px; height: 150px;">
-  <!-- Add your profile details, social links, or any other content here -->
-</div>
-
+   <!-- Add your profile details, social links, or any other content here -->
+   
 <p align="left"> <a href="https://twitter.com/arreyguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/arreyguptaji?logo=twitter&style=for-the-badge" alt="arreyguptaji" /></a> </p>
 
 - 🌱 I’m currently learning **Jest**
