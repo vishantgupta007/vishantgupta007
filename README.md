@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vishantgupta009@gmail.com**
 
-- 📄 Know about my experiences <a href="https://flowcv.com/resume/wfadrtgkup" target="_blank"><p>Know me</p></a>
+- 📄 Know about my experiences [Know Me](https://flowcv.com/resume/wfadrtgkup)
 
 - ⚡ Fun fact **Dreaming in code, waking up to debug – officially declaring myself a programmer, one bug at a time**
 
