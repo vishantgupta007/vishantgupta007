@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://vishantguptaportfolio.netlify.app/](https://vishantguptaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vishantguptaportfolio.netlify.app/)
 
 - 📫 How to reach me **vishantgupta009@gmail.com**
 
